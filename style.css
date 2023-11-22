@@ -1,0 +1,33 @@
+:root {
+  --brand-color: #2196f3;
+  --primary-color: #000000;
+  --text-color: #757575;
+  --text-2-color: #212121;
+  --title-color: #ffffff;
+  --bg-light: #ececec;
+  --bg-dark: #f5f4fa;
+  --bg-footer: #2f303a;
+}
+.footer {
+  background-color: #2f303a;
+}
+body {
+  font-family: Roboto;
+}
+.container {
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+  outline: solid chartreuse;
+}
+section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+.screen_saver {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.our_advantages {
+  padding-bottom: 0px;
+}
